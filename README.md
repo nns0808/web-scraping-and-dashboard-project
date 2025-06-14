@@ -51,3 +51,7 @@ Provided clean layout, titles, labels, and instructions for usability.
 Runs locally on http://127.0.0.1:8050/.
 5. Deployment 
 Project deployed to Render.
+screenshot: (https://github.com/user-attachments/assets/a2ffd669-31c0-4cc4-b05b-3689a80db4c1)
+
+
+
